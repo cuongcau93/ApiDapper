@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataManagement.Business.Interfaces\DataManagement.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\DataManagement.Entities\DataManagement.Entities.csproj" />
+    <ProjectReference Include="..\DataManagement.Repository.Interfaces\DataManagement.Repository.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

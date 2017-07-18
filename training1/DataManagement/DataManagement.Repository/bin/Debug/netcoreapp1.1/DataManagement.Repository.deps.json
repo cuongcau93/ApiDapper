@@ -1,0 +1,248 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "8e17297d44b6380a70501534e11391ad337aa215"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "datamanagement.repository/1.0.0": {
+        "dependencies": {
+          "Dapper": "1.50.2",
+          "DataManagement.Entities": "1.0.0",
+          "DataManagement.Repository.Interfaces": "1.0.0",
+          "System.Data.SqlClient": "4.4.0-preview2-25405-01"
+        },
+        "runtime": {
+          "DataManagement.Repository.dll": {}
+        }
+      },
+      "dapper/1.50.2": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.0.1",
+          "System.Data.SqlClient": "4.4.0-preview2-25405-01"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Dapper.dll": {}
+        }
+      },
+      "runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25405-01": {
+        "dependencies": {
+          "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": "4.4.0-preview2-25312-01",
+          "runtime.win-x64.runtime.native.System.Data.SqlClient.sni": "4.4.0-preview2-25312-01",
+          "runtime.win-x86.runtime.native.System.Data.SqlClient.sni": "4.4.0-preview2-25312-01"
+        }
+      },
+      "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/sni.dll": {
+            "rid": "win-arm64",
+            "assetType": "native"
+          }
+        }
+      },
+      "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/sni.dll": {
+            "rid": "win-x64",
+            "assetType": "native"
+          }
+        }
+      },
+      "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/sni.dll": {
+            "rid": "win-x86",
+            "assetType": "native"
+          }
+        }
+      },
+      "system.collections.nongeneric/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
+        }
+      },
+      "system.data.common/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.2/System.Data.Common.dll": {}
+        }
+      },
+      "system.data.sqlclient/4.4.0-preview2-25405-01": {
+        "dependencies": {
+          "System.Data.Common": "4.3.0",
+          "System.Diagnostics.DiagnosticSource": "4.4.0-preview2-25405-01",
+          "System.IO.Pipes": "4.3.0",
+          "System.Security.Principal.Windows": "4.4.0-preview2-25405-01",
+          "System.Text.Encoding.CodePages": "4.4.0-preview2-25405-01",
+          "runtime.native.System.Data.SqlClient.sni": "4.4.0-preview2-25405-01"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Data.SqlClient.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.Data.SqlClient.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win/lib/netstandard1.3/System.Data.SqlClient.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "system.diagnostics.diagnosticsource/4.4.0-preview2-25405-01": {
+        "runtime": {
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
+        }
+      },
+      "system.io.pipes/4.3.0": {
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.IO.Pipes.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win/lib/netstandard1.3/System.IO.Pipes.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "system.security.principal.windows/4.4.0-preview2-25405-01": {
+        "runtime": {
+          "lib/netstandard1.3/System.Security.Principal.Windows.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard1.3/System.Security.Principal.Windows.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "system.text.encoding.codepages/4.4.0-preview2-25405-01": {
+        "runtime": {
+          "lib/netstandard1.3/System.Text.Encoding.CodePages.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "datamanagement.entities/1.0.0": {
+        "runtime": {
+          "DataManagement.Entities.dll": {}
+        }
+      },
+      "datamanagement.repository.interfaces/1.0.0": {
+        "dependencies": {
+          "DataManagement.Entities": "1.0.0"
+        },
+        "runtime": {
+          "DataManagement.Repository.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "datamanagement.repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dapper/1.50.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-31Ju5VGyNNc66OAsw+SCp1TWPBuyw8ZBdkMG5pSUPChZcy27s2GhVz5B9INP4f25mPqfiJ+mfeHy9JAJyyT+LQ==",
+      "path": "dapper/1.50.2",
+      "hashPath": "dapper.1.50.2.nupkg.sha512"
+    },
+    "runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25405-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6UsfUSbn7or04aaNtb57tKa9sRJLPA5fwzZSmzgH/OWitanxGwaE301eNi1sR7NMVYNXwdNQxSkiJc2IzfGeaQ==",
+      "path": "runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25405-01",
+      "hashPath": "runtime.native.system.data.sqlclient.sni.4.4.0-preview2-25405-01.nupkg.sha512"
+    },
+    "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5hi5rq70S2x3bjJLQ6OOSGc3ddceD5uZ592R4FIhz8Utbr9L80bk/I8lNnlvdTBDAoJ688IRitXx1M4VGEcmBw==",
+      "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01",
+      "hashPath": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0-preview2-25312-01.nupkg.sha512"
+    },
+    "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L2HCpvPi1dk0OIimJLmtQS4qzJ53rt0UtDgM3m82sw8tk9+QA38ifATNoA22T3C/Bd21DaHPIogQwM55LqWmEQ==",
+      "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01",
+      "hashPath": "runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0-preview2-25312-01.nupkg.sha512"
+    },
+    "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CqarNAAvvc4RwlxWhbcKdHgg7EQBzjRLvOsdsjN1rpLvQLQWdOPyBorDwO9Ccb0ZT4VZnCg+WYkzlGXRG8k9Fg==",
+      "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0-preview2-25312-01",
+      "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0-preview2-25312-01.nupkg.sha512"
+    },
+    "system.collections.nongeneric/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMxFT2RhhlffyCdKLDXjx8WEC5JfCvNozAZxCablAuFRH74SCV4AgzE8yJCh/73bFnEoZgJ9MJmkjQ0dJmnKqA==",
+      "path": "system.collections.nongeneric/4.0.1",
+      "hashPath": "system.collections.nongeneric.4.0.1.nupkg.sha512"
+    },
+    "system.data.common/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lm6E3T5u7BOuEH0u18JpbJHxBfOJPuCyl4Kg1RH10ktYLp5uEEE1xKrHW56/We4SnZpGAuCc9N0MJpSDhTHZGQ==",
+      "path": "system.data.common/4.3.0",
+      "hashPath": "system.data.common.4.3.0.nupkg.sha512"
+    },
+    "system.data.sqlclient/4.4.0-preview2-25405-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PV4jtst5vbLHHhScdP8+6PIfjTOVxs1/p3J2QT2Atg2aXExXQ61eMO5Qw39Q+kdPEnaSE5mxySyMAJbp0Srg6A==",
+      "path": "system.data.sqlclient/4.4.0-preview2-25405-01",
+      "hashPath": "system.data.sqlclient.4.4.0-preview2-25405-01.nupkg.sha512"
+    },
+    "system.diagnostics.diagnosticsource/4.4.0-preview2-25405-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xIXwkR2igcxZhTuY/yDFeeeWY+CblLoUOIEaKMCYHg+aprQ55XNngie5DtyLNZwwa2mwvldOkvtJ4VmJ6OlE1g==",
+      "path": "system.diagnostics.diagnosticsource/4.4.0-preview2-25405-01",
+      "hashPath": "system.diagnostics.diagnosticsource.4.4.0-preview2-25405-01.nupkg.sha512"
+    },
+    "system.io.pipes/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wpGJuACA6r8+KRckXoI6ghGTwgPRiICI6T7kgHI/m7S5eMqV/8jH37fzAUhTwIe9RwlH/j1sWwm2Q2zyXwZGHw==",
+      "path": "system.io.pipes/4.3.0",
+      "hashPath": "system.io.pipes.4.3.0.nupkg.sha512"
+    },
+    "system.security.principal.windows/4.4.0-preview2-25405-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yKFdEsEfDSahLOZ7fB79cDigVCdYX8kOJfRVevqs4HKMMMIVyP6H3a6MFUATaHtZ7iG0W6WSC/GmZW5eO/aAvw==",
+      "path": "system.security.principal.windows/4.4.0-preview2-25405-01",
+      "hashPath": "system.security.principal.windows.4.4.0-preview2-25405-01.nupkg.sha512"
+    },
+    "system.text.encoding.codepages/4.4.0-preview2-25405-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tL+ROTHbDY+LWQm0Ps907Lf4xuwpwOnFn+YdZCaKuHenPOnxDkBk23xTD+b1+R2fuZFjNhPrx2JQlT+k5uIdMA==",
+      "path": "system.text.encoding.codepages/4.4.0-preview2-25405-01",
+      "hashPath": "system.text.encoding.codepages.4.4.0-preview2-25405-01.nupkg.sha512"
+    },
+    "datamanagement.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "datamanagement.repository.interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

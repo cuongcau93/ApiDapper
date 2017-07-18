@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Entities\bin\Debug\netcoreapp1.1\DataManagement.Entities.deps.json
+C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Entities\bin\Debug\netcoreapp1.1\DataManagement.Entities.dll
+C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Entities\bin\Debug\netcoreapp1.1\DataManagement.Entities.pdb
+C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Entities\obj\Debug\netcoreapp1.1\DataManagement.Entities.AssemblyInfo.cs
+C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Entities\obj\Debug\netcoreapp1.1\DataManagement.Entities.dll
+C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Entities\obj\Debug\netcoreapp1.1\DataManagement.Entities.pdb
+C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Entities\obj\Debug\netcoreapp1.1\DataManagement.Entities.csprojResolveAssemblyReference.cache
