@@ -26,7 +26,7 @@ namespace DataManagement.Business
             return _userRepository.DeleteUser(userId);
         }
 
-        public IList<User> GetAllUser()
+        public IEnumerable<User> GetAllUser()
         {
             return _userRepository.GetAllUser();
         }

@@ -11,6 +11,7 @@
           "Dapper": "1.50.2",
           "DataManagement.Entities": "1.0.0",
           "DataManagement.Repository.Interfaces": "1.0.0",
+          "Euroland.NetCore.ToolsFramework.Data": "1.0.0",
           "System.Data.SqlClient": "4.4.0-preview2-25405-01"
         },
         "runtime": {
@@ -141,6 +142,14 @@
         "runtime": {
           "DataManagement.Repository.Interfaces.dll": {}
         }
+      },
+      "euroland.netcore.toolsframework.data/1.0.0": {
+        "dependencies": {
+          "Dapper": "1.50.2"
+        },
+        "runtime": {
+          "Euroland.NetCore.ToolsFramework.Data.dll": {}
+        }
       }
     }
   },
@@ -240,6 +249,11 @@
       "sha512": ""
     },
     "datamanagement.repository.interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "euroland.netcore.toolsframework.data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

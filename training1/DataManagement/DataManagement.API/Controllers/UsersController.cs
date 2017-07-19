@@ -20,7 +20,7 @@ namespace DataManagement.API.Controllers
         }
 
         [HttpGet]
-        public IList<User> Get()
+        public IEnumerable<User> Get()
         {
             return _userManager.GetAllUser();
         }

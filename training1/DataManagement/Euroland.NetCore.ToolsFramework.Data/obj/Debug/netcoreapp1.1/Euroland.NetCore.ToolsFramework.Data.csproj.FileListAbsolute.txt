@@ -1,0 +1,7 @@
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\Euroland.NetCore.ToolsFramework.Data\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.deps.json
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\Euroland.NetCore.ToolsFramework.Data\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\Euroland.NetCore.ToolsFramework.Data\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.AssemblyInfo.cs
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\Euroland.NetCore.ToolsFramework.Data\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\Euroland.NetCore.ToolsFramework.Data\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\Euroland.NetCore.ToolsFramework.Data\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\Euroland.NetCore.ToolsFramework.Data\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.csprojResolveAssemblyReference.cache

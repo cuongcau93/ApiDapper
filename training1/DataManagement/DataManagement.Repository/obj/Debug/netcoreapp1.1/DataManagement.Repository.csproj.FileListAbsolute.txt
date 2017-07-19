@@ -9,3 +9,16 @@ C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Repository
 C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Repository\obj\Debug\netcoreapp1.1\DataManagement.Repository.AssemblyInfo.cs
 C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Repository\obj\Debug\netcoreapp1.1\DataManagement.Repository.dll
 C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Repository\obj\Debug\netcoreapp1.1\DataManagement.Repository.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\DataManagement.Repository.deps.json
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\obj\Debug\netcoreapp1.1\DataManagement.Repository.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\obj\Debug\netcoreapp1.1\DataManagement.Repository.AssemblyInfo.cs
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\obj\Debug\netcoreapp1.1\DataManagement.Repository.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\obj\Debug\netcoreapp1.1\DataManagement.Repository.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\DataManagement.Repository.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\DataManagement.Repository.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\DataManagement.Entities.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\DataManagement.Entities.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Repository\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb

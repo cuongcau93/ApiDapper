@@ -12,6 +12,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DataManagement.Entities\DataManagement.Entities.csproj" />
     <ProjectReference Include="..\DataManagement.Repository.Interfaces\DataManagement.Repository.Interfaces.csproj" />
+    <ProjectReference Include="..\Euroland.NetCore.ToolsFramework.Data\Euroland.NetCore.ToolsFramework.Data.csproj" />
   </ItemGroup>
 
 </Project>

@@ -11,3 +11,16 @@ C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Business\o
 C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.AssemblyInfo.cs
 C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.dll
 C:\Users\123\Desktop\Training\training1\DataManagement\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.deps.json
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.Interfaces.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Entities.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.Interfaces.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Entities.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.pdb
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.AssemblyInfo.cs
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.dll
+C:\Users\123\Documents\GitHub\ApiDapper\training1\DataManagement\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.pdb

@@ -7055,10 +7055,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj",
       "projectName": "DataManagement.Business.Interfaces",
-      "projectPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj",
-      "outputPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Business.Interfaces\\obj\\",
+      "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj",
+      "outputPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Business.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -7066,8 +7066,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Entities\\DataManagement.Entities.csproj": {
-              "projectPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Entities\\DataManagement.Entities.csproj"
+            "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Entities\\DataManagement.Entities.csproj": {
+              "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Entities\\DataManagement.Entities.csproj"
             }
           }
         }

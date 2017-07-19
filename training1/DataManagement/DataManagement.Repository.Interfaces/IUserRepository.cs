@@ -10,7 +10,7 @@ namespace DataManagement.Repository.Interfaces
         bool AddUser(User user);
         bool UpdateUser(User user);
         bool DeleteUser(int userId);
-        IList<User> GetAllUser();
+        IEnumerable<User> GetAllUser();
         User GetUserById(int userId);
     }
 }

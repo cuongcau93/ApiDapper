@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement.API", "DataManagement.API\DataManagement.API.csproj", "{22AB6DF2-E3D5-45C8-B246-CE11B9644DF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataManagement.API", "DataManagement.API\DataManagement.API.csproj", "{22AB6DF2-E3D5-45C8-B246-CE11B9644DF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement.Business", "DataManagement.Business\DataManagement.Business.csproj", "{D59BF102-45A5-4CA9-99AC-0FB84BFF49DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataManagement.Business", "DataManagement.Business\DataManagement.Business.csproj", "{D59BF102-45A5-4CA9-99AC-0FB84BFF49DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement.Business.Interfaces", "DataManagement.Business.Interfaces\DataManagement.Business.Interfaces.csproj", "{8054E6F3-99F3-4624-A558-D0E2EC690DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataManagement.Business.Interfaces", "DataManagement.Business.Interfaces\DataManagement.Business.Interfaces.csproj", "{8054E6F3-99F3-4624-A558-D0E2EC690DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement.Repository.Interfaces", "DataManagement.Repository.Interfaces\DataManagement.Repository.Interfaces.csproj", "{8D9BB37B-BC85-4D36-B7F3-EF50AEE414E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataManagement.Repository.Interfaces", "DataManagement.Repository.Interfaces\DataManagement.Repository.Interfaces.csproj", "{8D9BB37B-BC85-4D36-B7F3-EF50AEE414E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement.Repository", "DataManagement.Repository\DataManagement.Repository.csproj", "{B5326B66-B9A3-47A5-B5EE-04223C958FA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataManagement.Repository", "DataManagement.Repository\DataManagement.Repository.csproj", "{B5326B66-B9A3-47A5-B5EE-04223C958FA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement.Entities", "DataManagement.Entities\DataManagement.Entities.csproj", "{1F795107-908F-424A-A419-7673A063E58C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataManagement.Entities", "DataManagement.Entities\DataManagement.Entities.csproj", "{1F795107-908F-424A-A419-7673A063E58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euroland.NetCore.ToolsFramework.Data", "Euroland.NetCore.ToolsFramework.Data\Euroland.NetCore.ToolsFramework.Data.csproj", "{FB70012A-03BC-43B8-A1C2-CCDCCA0165C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1F795107-908F-424A-A419-7673A063E58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F795107-908F-424A-A419-7673A063E58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F795107-908F-424A-A419-7673A063E58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB70012A-03BC-43B8-A1C2-CCDCCA0165C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB70012A-03BC-43B8-A1C2-CCDCCA0165C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB70012A-03BC-43B8-A1C2-CCDCCA0165C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB70012A-03BC-43B8-A1C2-CCDCCA0165C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3769,6 +3769,7 @@
           "Dapper": "1.50.2",
           "DataManagement.Entities": "1.0.0",
           "DataManagement.Repository.Interfaces": "1.0.0",
+          "Euroland.NetCore.ToolsFramework.Data": "1.0.0",
           "Microsoft.NETCore.App": "1.1.2",
           "System.Data.SqlClient": "4.4.0-preview2-25405-01"
         }
@@ -3778,6 +3779,14 @@
         "framework": ".NETCoreApp,Version=v1.1",
         "dependencies": {
           "DataManagement.Entities": "1.0.0",
+          "Microsoft.NETCore.App": "1.1.2"
+        }
+      },
+      "Euroland.NetCore.ToolsFramework.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Dapper": "1.50.2",
           "Microsoft.NETCore.App": "1.1.2"
         }
       }
@@ -10143,6 +10152,11 @@
       "type": "project",
       "path": "../DataManagement.Repository.Interfaces/DataManagement.Repository.Interfaces.csproj",
       "msbuildProject": "../DataManagement.Repository.Interfaces/DataManagement.Repository.Interfaces.csproj"
+    },
+    "Euroland.NetCore.ToolsFramework.Data/1.0.0": {
+      "type": "project",
+      "path": "../Euroland.NetCore.ToolsFramework.Data/Euroland.NetCore.ToolsFramework.Data.csproj",
+      "msbuildProject": "../Euroland.NetCore.ToolsFramework.Data/Euroland.NetCore.ToolsFramework.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -10152,6 +10166,7 @@
       "DataManagement.Entities >= 1.0.0",
       "DataManagement.Repository >= 1.0.0",
       "DataManagement.Repository.Interfaces >= 1.0.0",
+      "Euroland.NetCore.ToolsFramework.Data >= 1.0.0",
       "Microsoft.ApplicationInsights.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore >= 1.1.2",
       "Microsoft.AspNetCore.Mvc >= 1.1.3",
@@ -10165,10 +10180,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.API\\DataManagement.API.csproj",
+      "projectUniqueName": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.API\\DataManagement.API.csproj",
       "projectName": "DataManagement.API",
-      "projectPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.API\\DataManagement.API.csproj",
-      "outputPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.API\\obj\\",
+      "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.API\\DataManagement.API.csproj",
+      "outputPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.API\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -10176,20 +10191,23 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj"
+            "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj"
             },
-            "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Business\\DataManagement.Business.csproj": {
-              "projectPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Business\\DataManagement.Business.csproj"
+            "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\Euroland.NetCore.ToolsFramework.Data\\Euroland.NetCore.ToolsFramework.Data.csproj": {
+              "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\Euroland.NetCore.ToolsFramework.Data\\Euroland.NetCore.ToolsFramework.Data.csproj"
             },
-            "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Entities\\DataManagement.Entities.csproj": {
-              "projectPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Entities\\DataManagement.Entities.csproj"
+            "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Business\\DataManagement.Business.csproj": {
+              "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Business\\DataManagement.Business.csproj"
             },
-            "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Repository\\DataManagement.Repository.csproj": {
-              "projectPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Repository\\DataManagement.Repository.csproj"
+            "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Entities\\DataManagement.Entities.csproj": {
+              "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Entities\\DataManagement.Entities.csproj"
             },
-            "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\123\\Desktop\\Training\\training1\\DataManagement\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj"
+            "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Repository\\DataManagement.Repository.csproj": {
+              "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Repository\\DataManagement.Repository.csproj"
+            },
+            "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\123\\Documents\\GitHub\\ApiDapper\\training1\\DataManagement\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj"
             }
           }
         }
