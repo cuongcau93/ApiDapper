@@ -4,27 +4,28 @@ using System.Text;
 using DataManagement.Entities.Models;
 using DataManagement.Repository.Interfaces;
 using Euroland.NetCore.ToolsFramework.Data;
+using System.Linq;
 
 namespace DataManagement.Repository
 {
-    public class StudentRepository : IStudentRepository
+    public class StudentRepository : BaseRepository, IStudentRepository
     {
-        string serverName = "123-HP";
-        string databaseName = "DataManagement";
-        /// <summary>
-        /// option to login mssql server
-        /// if you usage sql express then do not care about User and Password to login sql server
-        /// </summary>
-        string userID = "sa";
-        string password = "123456sa";
-        string connectionString => $"Server={serverName};Database={databaseName};User ID={userID};Password={password};Trusted_Connection=True;MultipleActiveResultSets=true";
-
-        DapperDatabaseContext DatabaseConnection => new DapperDatabaseContext(connectionString);
-
+       
         public IEnumerable<Student> GetAllUser()
         {
             IEnumerable<Student> studentList = DatabaseConnection.Exec<Student>("spStudentGetAllStudent");
             return studentList;
+        }
+
+        public Student GetStudentById(int studentId)
+        {
+            using (var multipleResult = DatabaseConnection.QueryMultipleResult("spStudentSelectAll", new { @StudentID = 1 }))
+            {
+                Student students = multipleResult.GetSingle<Student>();
+                List<Enrollment> enrollment = multipleResult.Get<Enrollment>().ToList();
+                students.Enrollments = enrollment;
+                return students;
+            }
         }
     }
 }

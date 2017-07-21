@@ -1,0 +1,15 @@
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.deps.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.Interfaces.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Entities.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Business.Interfaces.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Entities.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.csprojResolveAssemblyReference.cache
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.AssemblyInfo.cs
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Business\obj\Debug\netcoreapp1.1\DataManagement.Business.pdb

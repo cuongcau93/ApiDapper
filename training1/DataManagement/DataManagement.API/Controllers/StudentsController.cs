@@ -23,5 +23,11 @@ namespace DataManagement.API.Controllers
         {
             return _studentManager.GetAllUser();
         }
+
+        [HttpGet("{id}")]
+        public Student Get(int id)
+        {
+            return _studentManager.GetStudentById(id);
+        }
     }
 }

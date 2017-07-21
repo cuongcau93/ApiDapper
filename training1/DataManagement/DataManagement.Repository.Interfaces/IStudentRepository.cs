@@ -9,5 +9,7 @@ namespace DataManagement.Repository.Interfaces
     public interface IStudentRepository
     {
         IEnumerable<Student> GetAllUser();
+        Student GetStudentById(int studentId);
+
     }
 }

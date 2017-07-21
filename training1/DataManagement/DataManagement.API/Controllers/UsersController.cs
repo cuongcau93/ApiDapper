@@ -22,7 +22,12 @@ namespace DataManagement.API.Controllers
         [HttpGet]
         public IEnumerable<User> Get()
         {
-            return _userManager.GetAllUser();
+            IEnumerable<User> userList = _userManager.GetAllUser();
+            if(userList == null)
+            {
+                //return StatusCode = 404;
+            }
+            return userList;
         }
 
         // GET api/values/5

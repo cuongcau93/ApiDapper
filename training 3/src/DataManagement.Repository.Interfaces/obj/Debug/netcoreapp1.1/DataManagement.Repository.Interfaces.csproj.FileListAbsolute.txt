@@ -1,0 +1,11 @@
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.deps.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp1.1\DataManagement.Entities.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp1.1\DataManagement.Entities.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.csprojResolveAssemblyReference.cache
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.AssemblyInfo.cs
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\DataManagement.Repository.Interfaces\obj\Debug\netcoreapp1.1\DataManagement.Repository.Interfaces.pdb

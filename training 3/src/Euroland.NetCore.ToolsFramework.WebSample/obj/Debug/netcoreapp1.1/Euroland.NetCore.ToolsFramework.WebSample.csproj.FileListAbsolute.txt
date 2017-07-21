@@ -1,0 +1,15 @@
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.deps.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.runtimeconfig.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.runtimeconfig.dev.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Localization.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Setting.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Localization.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Setting.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.csprojResolveAssemblyReference.cache
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.AssemblyInfo.cs
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.WebSample\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.WebSample.pdb

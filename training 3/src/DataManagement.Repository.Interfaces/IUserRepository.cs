@@ -1,0 +1,16 @@
+﻿using DataManagement.Entities;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DataManagement.Repository.Interfaces
+{
+    public interface IUserRepository
+    {
+        bool AddUser(User user);
+        bool UpdateUser(User user);
+        bool DeleteUser(int userId);
+        IEnumerable<User> GetAllUser();
+        User GetUserById(int userId);
+    }
+}

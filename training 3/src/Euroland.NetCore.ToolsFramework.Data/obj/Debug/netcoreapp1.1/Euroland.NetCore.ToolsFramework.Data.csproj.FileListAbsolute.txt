@@ -1,0 +1,7 @@
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.deps.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.AssemblyInfo.cs
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.csprojResolveAssemblyReference.cache

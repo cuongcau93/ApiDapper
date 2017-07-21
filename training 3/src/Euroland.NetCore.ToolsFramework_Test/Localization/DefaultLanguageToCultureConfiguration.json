@@ -1,0 +1,90 @@
+[
+  {
+    "name": "EN",
+    "nativeCultures": [ "en-GB" ]
+  },
+  {
+    "name": "DE",
+    "nativeCultures": [ "de-DE" ]
+  },
+  {
+    "name": "ES",
+    "nativeCultures": [ "es-ES" ]
+  },
+  {
+    "name": "FR",
+    "nativeCultures": [ "fr-FR" ]
+  },
+  {
+    "name": "IT",
+    "nativeCultures": [ "it-IT" ]
+  },
+  {
+    "name": "NL",
+    "nativeCultures": [ "nl-NL" ],
+  },
+  {
+    "name": "FI",
+    "nativeCultures": [ "fi-FI" ]
+  },
+  {
+    "name": "SV",
+    "nativeCultures": [ "sv-SE" ]
+  },
+  {
+    "name": "RU",
+    "nativeCultures": [ "ru-RU" ]
+  },
+  {
+    "name": "PL",
+    "nativeCultures": [ "pl-PL" ]
+  },
+  {
+    "name": "JP",
+    "nativeCultures": [ "ja-JP" ]
+  },
+  {
+    "name": "KR",
+    "nativeCultures": [ "ko-KR" ]
+  },
+  {
+    "name": "IE",
+    "nativeCultures": [ "is-IS" ]
+  },
+  {
+    "name": "DK",
+    "nativeCultures": [ "da-DK" ]
+  },
+  {
+    "name": "NO",
+    "nativeCultures": [ "nb-NO" ]
+  },
+  {
+    "name": "FO",
+    "nativeCultures": [ "fo-FO" ]
+  },
+  {
+    "name": "AR",
+    "nativeCultures": [ "ar-AE" ]
+  },
+  {
+    "name": "VI",
+    "nativeCultures": [ "vi-VN" ]
+  },
+  {
+    "name": "ET",
+    "nativeCultures": [ "et-EE" ]
+  },
+  {
+    "name": "PT",
+    "nativeCultures": [ "pt-PT" ]
+  },
+  {
+    "name": "TW",
+    "nativeCultures": [ "zh-TW" ]
+  },
+  {
+    "name": "CN",
+    "nativeCultures": [ "zh-CN" ]
+  }
+]

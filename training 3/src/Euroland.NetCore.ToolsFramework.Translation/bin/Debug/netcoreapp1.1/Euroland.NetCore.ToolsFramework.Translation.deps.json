@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "80c9e14d94d80841ab44d3a9f5dd8e7fde4d27aa"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "euroland.netcore.toolsframework.translation/2.0.0": {
+        "dependencies": {
+          "System.Resources.Writer": "4.3.0"
+        },
+        "runtime": {
+          "Euroland.NetCore.ToolsFramework.Translation.dll": {}
+        }
+      },
+      "system.resources.writer/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.3/System.Resources.Writer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "euroland.netcore.toolsframework.translation/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "system.resources.writer/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0ZFXHcAZStczfUlFyC1yM62/02TD9ERtsBv8Y5idu9CIKOADudiZ4IOXmd1M+eS2TGH3xy4dGJXlhNV7q7tqAg==",
+      "path": "system.resources.writer/4.3.0",
+      "hashPath": "system.resources.writer.4.3.0.nupkg.sha512"
+    }
+  }
+}

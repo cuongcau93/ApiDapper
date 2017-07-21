@@ -1,0 +1,14 @@
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.deps.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.runtimeconfig.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.runtimeconfig.dev.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.csprojResolveAssemblyReference.cache
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.AssemblyInfo.cs
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFramework.Data.Test\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.Data.Test.pdb

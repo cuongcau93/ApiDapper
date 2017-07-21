@@ -1,0 +1,34 @@
+﻿@using Microsoft.AspNetCore.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@using Euroland.NetCore.ToolsFramework.Setting.Abstractions
+
+@inject IViewLocalizer localizer
+@inject ISettingItemRoot setting
+<p>
+    <h1>Localization string</h1>
+</p>
+<p>
+    <h1>@localizer["Welcome"]</h1>
+</p>
+
+<hr/>
+<p>
+    <h2>Supported cultures:</h2>
+</p>
+
+<p>
+    @Html.Raw(ViewData["SupportedCulture"])
+</p>
+
+<p>
+    <h2>Setting:</h2>
+</p>
+<p>
+    <div>
+        Timezone: @setting["TimeZone"]
+    </div>
+    <div>
+        Enabled Heading: @setting["EnabledHeading"]
+    </div>
+</p>
+

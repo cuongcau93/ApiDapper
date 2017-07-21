@@ -8,5 +8,6 @@ namespace DataManagement.Business.Interfaces
     public interface IStudentManager
     {
         IEnumerable<Student> GetAllUser();
+        Student GetStudentById(int studentId);
     }
 }

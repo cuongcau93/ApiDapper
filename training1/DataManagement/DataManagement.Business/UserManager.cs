@@ -28,7 +28,16 @@ namespace DataManagement.Business
 
         public IEnumerable<User> GetAllUser()
         {
-            return _userRepository.GetAllUser();
+            IEnumerable<User> userList = _userRepository.GetAllUser();
+            userList = null;
+            if(userList == null)
+            {
+                return null;
+            }
+            else
+            {
+                return userList;
+            }
         }
 
         public User GetUserById(int userId)

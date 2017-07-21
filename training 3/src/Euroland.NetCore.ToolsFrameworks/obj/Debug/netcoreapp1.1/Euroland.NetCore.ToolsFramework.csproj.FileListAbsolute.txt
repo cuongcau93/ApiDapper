@@ -1,0 +1,8 @@
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFrameworks\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.deps.json
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFrameworks\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFrameworks\bin\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.pdb
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFrameworks\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework._lang.ExceptionMessage.resources
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFrameworks\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.csproj.GenerateResource.Cache
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFrameworks\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.AssemblyInfo.cs
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFrameworks\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.dll
+D:\SVN\NetCoreProjects\Euroland.NetCore.ToolsFramework\trunk\src\Euroland.NetCore.ToolsFrameworks\obj\Debug\netcoreapp1.1\Euroland.NetCore.ToolsFramework.pdb

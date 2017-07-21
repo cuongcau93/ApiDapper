@@ -20,5 +20,10 @@ namespace DataManagement.Business
         {
             return _studentRepository.GetAllUser();
         }
+
+        public Student GetStudentById(int studentId)
+        {
+            return _studentRepository.GetStudentById(studentId);
+        }
     }
 }
