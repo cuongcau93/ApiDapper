@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euroland.NetCore.ToolsFramework.Test", "Euroland.NetCore.ToolsFramework_Test\Euroland.NetCore.ToolsFramework.Test.csproj", "{0F2B90D9-9E52-4625-B76F-9E3F91C0ECB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euroland.NetCore.ToolsFramework.Data", "Euroland.NetCore.ToolsFramework.Data\Euroland.NetCore.ToolsFramework.Data.csproj", "{8BCBAED3-1F5C-4152-9990-040937A1B774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euroland.NetCore.ToolsFramework.Translation", "Euroland.NetCore.ToolsFramework.Translation\Euroland.NetCore.ToolsFramework.Translation.csproj", "{2F4D4884-A67F-450C-A102-68C768B0305A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euroland.NetCore.ToolsFramework.Localization", "Euroland.NetCore.ToolsFramework.Localization\Euroland.NetCore.ToolsFramework.Localization.csproj", "{9EC06C7C-3F34-483D-A1AE-D453BB49AC33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euroland.NetCore.ToolsFramework.Setting", "Euroland.NetCore.ToolsFramework.Setting\Euroland.NetCore.ToolsFramework.Setting.csproj", "{BF45DE4E-ADAB-4C01-91D8-BF2AA9C18070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euroland.NetCore.ToolsFramework.WebSample", "Euroland.NetCore.ToolsFramework.WebSample\Euroland.NetCore.ToolsFramework.WebSample.csproj", "{08405894-98C9-41B8-B619-55866798B61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2B90D9-9E52-4625-B76F-9E3F91C0ECB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2B90D9-9E52-4625-B76F-9E3F91C0ECB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2B90D9-9E52-4625-B76F-9E3F91C0ECB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2B90D9-9E52-4625-B76F-9E3F91C0ECB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCBAED3-1F5C-4152-9990-040937A1B774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCBAED3-1F5C-4152-9990-040937A1B774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCBAED3-1F5C-4152-9990-040937A1B774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCBAED3-1F5C-4152-9990-040937A1B774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4D4884-A67F-450C-A102-68C768B0305A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4D4884-A67F-450C-A102-68C768B0305A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4D4884-A67F-450C-A102-68C768B0305A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4D4884-A67F-450C-A102-68C768B0305A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC06C7C-3F34-483D-A1AE-D453BB49AC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC06C7C-3F34-483D-A1AE-D453BB49AC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC06C7C-3F34-483D-A1AE-D453BB49AC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC06C7C-3F34-483D-A1AE-D453BB49AC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF45DE4E-ADAB-4C01-91D8-BF2AA9C18070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF45DE4E-ADAB-4C01-91D8-BF2AA9C18070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF45DE4E-ADAB-4C01-91D8-BF2AA9C18070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF45DE4E-ADAB-4C01-91D8-BF2AA9C18070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08405894-98C9-41B8-B619-55866798B61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08405894-98C9-41B8-B619-55866798B61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08405894-98C9-41B8-B619-55866798B61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08405894-98C9-41B8-B619-55866798B61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
