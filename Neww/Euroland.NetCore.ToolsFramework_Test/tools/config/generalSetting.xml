@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <globalSetting>This is global Setting</globalSetting>
+  <level>Level1</level>
+  <level1>Level1</level1>
+</settings>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <level>Level4</level>
+  <level4>Level4</level4>
+  <Format>
+    <en-GB>
+      <ShortDate xml:space="preserve">MM-dd-yyyy</ShortDate>
+    </en-GB>
+  </Format>
+</settings>

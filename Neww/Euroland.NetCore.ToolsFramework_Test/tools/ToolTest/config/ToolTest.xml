@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <level>Level3</level>
+  <level2>Level2</level2>
+  <Format>
+    <en-GB>
+      <ShortDate xml:space="preserve">dd/MM/yyyy</ShortDate>
+      <TimeFormat xml:space="preserve">hh:mm:ss</TimeFormat>
+      <DecimalSeparator  xml:space="preserve">.</DecimalSeparator >
+      <ThousandsSeparator xml:space="preserve">,</ThousandsSeparator>
+      <DecimalDigits>2</DecimalDigits>
+      <NegativeNumberFormat xml:space="preserve">-n</NegativeNumberFormat>
+    </en-GB>
+  </Format>
+</settings>
